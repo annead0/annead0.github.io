@@ -1,7 +1,10 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://www.publicdomainpictures.net/pictures/310000/velka/christmas-scene-background.jpg");
 }
-
+.christmastext{
+  font-family:"Mountains of Christmas";
+}
 .countdown-div{
     padding-left:130px; 
     font-size:18px; 
