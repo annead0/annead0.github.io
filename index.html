@@ -5,6 +5,35 @@
         <link rel="stylesheet" href="./style.css">
     </head>
     <body>
-        <h1></h1>
+        <h1>Annead Github Website</h1>
+        <nav>
+            <a href="./about/">About Annead</a>
+            <div class="dropdown">
+                <input type="checkbox" id="checkbox_id" class="dropdown-menu">
+                <label for="checkbox_id">
+                <div class="dropdown-content">
+                    <a href="./projects/">Projects</a>
+                    <a href="./annead/">Annead websites</a>
+                </div>
+            </div>
+        </nav>
+        <div class="content">
+            <h2 class="christmastext">Christmas countdown</h2>
+            <div style="background-image: url(https://christmaswebmaster.com/images/santa-countdown.png); height:197px; width:275px; background-repeat: no-repeat;
+  background-size: 275px 197px;"><div class="countdown-div">
+     <script language="javascript" type="text/javascript">
+      today = new Date();
+      BigDay = new Date("December 25, 2022")
+      msPerDay = 24 * 60 * 60 * 1000 ;
+      timeLeft = (BigDay.getTime() - today.getTime());
+      e_daysLeft = timeLeft / msPerDay;
+      daysLeft = Math.floor(e_daysLeft);
+      e_hrsLeft = (e_daysLeft - daysLeft)*24;
+     hrsLeft = Math.floor(e_hrsLeft);
+     minsLeft = Math.floor((e_hrsLeft - hrsLeft)*60);
+     document.write( "There's only "+daysLeft+" days, "+hrsLeft+" hours and "+minsLeft+" minutes left until Christmas!");
+    </script></div>
+      </div>
+        </div>
     </body>
 </html>
