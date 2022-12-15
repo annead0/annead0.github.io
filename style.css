@@ -77,7 +77,7 @@ nav{
 p #christmas{
   background-image: url("https://www.publicdomainpictures.net/pictures/210000/velka/red-sparkling-background.jpg");
             background-repeat: repeat;
-            -webkit-background-clip: text;
+            background-clip: text;
             -webkit-text-fill-color: transparent;
             margin-top: 200px;
             font-size: 23px;
