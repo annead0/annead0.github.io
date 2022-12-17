@@ -22,7 +22,9 @@ body{
   );
   display: inline-block;
 }
-
+.i{
+   display:inline;
+}
 .dropdown{
     float:right;
     padding-top:25px;
