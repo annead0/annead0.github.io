@@ -59,7 +59,9 @@ nav a{
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
-
+#sparklingtext{
+  color:white;
+}
 .countdown-div{
     padding-left:130px; 
     font-size:18px; 
