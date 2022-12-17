@@ -5,6 +5,10 @@ body{
 .christmastext{
   font-family:"Mountains of Christmas";
 }
+.i{
+  display:inline-flex;
+}
+
 .countdown-div{
     padding-left:130px; 
     font-size:18px; 
