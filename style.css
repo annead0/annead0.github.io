@@ -59,10 +59,7 @@ nav a{
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
-#sparklingtext{
-  background-image:url("http://www.freeimageslive.co.uk/files/images010/red_glitter.jpg");
-  color:white;
-}
+
 .countdown-div{
     padding-left:130px; 
     font-size:18px; 
