@@ -1,0 +1,29 @@
+body{
+    font-family: "Chivo Mono";
+    background-color: gold;
+    width:960px;
+    margin:0 auto;
+}
+header{
+    background-color:blanchedalmond;
+    position: fixed;
+}
+#content{
+    overflow:auto;
+    height:100%;
+}
+nav,#feature,footer{
+    background-color: #efefef;
+    padding:10px;
+    margin:10px;
+}
+article{
+    background-color: #efefef;
+    width:300px;
+    float:left;
+    margin:10px;
+}
+li{
+    display: inline;
+    padding:5px;
+}
