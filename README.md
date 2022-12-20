@@ -10,3 +10,5 @@ and other tutorials maybe css/ framework ones.
 There will be a page for stackblitzes and codesandboxes.
 ## Tutorial repos
 There will be repos for the tutorial containing the solution code.
+## Replit and Stackblitz and Codesandbox.io
+There will be template repls for schus.css and js and rengvo and maybe templates on stackblitz but definitely on codesandbox.
